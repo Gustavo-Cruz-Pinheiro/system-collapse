@@ -4,7 +4,7 @@
 
 O objetivo do projeto foi criar um jogo de plataforma.
 
-![Demonstração da Aplicação](./assets/demo.png)
+![Demonstração da Aplicação](./Assets/demo.png)
 
 ## 🛠 Tecnologias
 
